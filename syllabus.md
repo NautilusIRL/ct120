@@ -21,7 +21,7 @@ An up to date version of this syllabus can be found at: https://aphid.github.io/
 ## Instructor Information
 
 *   **Instructor:** 
-    *   **Name:** Abram Stern, Ph.D. (they/he)
+    *   **Name:** Abram Stern, Ph.D. (they/he) ETHAN IS TAKING OVER THE CLASS
     *   **Email:** [aphid@ucsc.edu](mailto:aphid@ucsc.edu)
     *   **Office Hours:** Tues from 3:05-4:05 (and ad-hoc on Matrix)
 *   **Teaching Assistant:** 
