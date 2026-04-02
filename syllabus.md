@@ -198,15 +198,8 @@ The general arc of the class will be 5ish weeks of client-side (browser-based) J
 
 
 
-## Week 3: **\<script src="..."\>** cool tools (Apr 14,16)
-* **Project** 
-    * Try using a library, tool, or framework you've never used before that in some way incorporates coding to make something. Document the process. It may not go well, but that's okay! As you select a tool, consider its license (is it commericial? expensive? open source?), avenues for support and community (a forum? discord? element?). Post a link to the tool in the chat, a brief summary of your experience, a link to what you made (if the tool worked!) and whether you'd recommend it to your peers.
-*   **Readings/Viewings**  
-*   **Tuesday**: working with external libraries
-*   **Thursday**: co(de)-working, co-assembling "cool tools" list.
-*   **Sunday**: Project due. 
 
-## Week 4: new THREE.Scene(); (Apr 21 , 23)
+## Week 3: new THREE.Scene(); (Apr 14 , 16)
 * **Project** 
     * Respond to our guest's talk/workshop in code, text or another medium of your choice (or a combination of the above).
 * **Readings**
@@ -215,6 +208,15 @@ The general arc of the class will be 5ish weeks of client-side (browser-based) J
 *   **Tuesday**: Guest visit! Chelsea Thompto
 *   **Thursday**: Co(de)-working
 *   **Sunday**: Project due
+
+## Week 3: **\<script src="..."\>** cool tools (Apr 21,23)
+* **Project** 
+    * Try using a library, tool, or framework you've never used before that in some way incorporates coding to make something. Document the process. It may not go well, but that's okay! As you select a tool, consider its license (is it commericial? expensive? open source?), avenues for support and community (a forum? discord? element?). Post a link to the tool in the chat, a brief summary of your experience, a link to what you made (if the tool worked!) and whether you'd recommend it to your peers.
+*   **Readings/Viewings**  
+*   **Tuesday**: working with external libraries
+*   **Thursday**: co(de)-working, co-assembling "cool tools" list.
+*   **Sunday**: Project due. 
+
 
 ## Week 5: window.setTimeout() (Apr 28, 30)
 * **Project** 
