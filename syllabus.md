@@ -8,7 +8,7 @@ An up to date version of this syllabus can be found at: https://aphid.github.io/
 
 * **Term:** Spring 2026
 * **Meeting Times:** Tu/Th, 1:30 PM - 3:05 PM
-* **Location:** [Zoom]()
+* **Location:** [Zoom](https://canvas.ucsc.edu/courses/93093/external_tools/6680)
 * **Course Chatroom:** [info/link here]()
 
 ## Instructor Information
@@ -205,6 +205,7 @@ The general arc of the class will be 5ish weeks of client-side (browser-based) J
 * **Readings**
     * Read:
         * [Interview with Chelsea Thompto](https://www.artistsandhackers.org/chelsea-thompto)
+        * [ThreeJS Chessboard Tutorial](https://chelsea-thompto-teaching-examples.github.io/chess-board-example/)
 *   **Tuesday**: Guest visit! Chelsea Thompto
 *   **Thursday**: Co(de)-working
 *   **Sunday**: Project due
@@ -287,6 +288,3 @@ College can be a challenging time for students and during times of stress it is 
  
 #### Slug help / Crisis Services
 For all other help and support, including the health center and emergency services, start here: <https://basicneeds.ucsc.edu/crisis-resolution/crisis-contacts.html>. Always dial 9-1-1 in the case of an emergency.
-
-
-
