@@ -106,7 +106,7 @@ Aside from your computer, none of the resources needed for this class should cos
 
 *   **Software:** (🐧 denotes open source, 💸 indicates paid)
     * A text editor or IDE (e.g., [VSCodium](https://vscodium.com/)🐧
-/[VSCode](https://code.visualstudio.com/), [Sublime Text](https://www.sublimetext.com/)) 
+/[VSCode](https://code.visualstudio.com/), [Sublime Text](https://www.sublimetext.com/), [Zed](https://zed.dev/)🐧) 
     * Media editing tools (e.g., [GIMP](https://www.gimp.org/)🐧, [Audacity](https://www.audacityteam.org/)🐧, Adobe Suite 💸)
     * A web browser (e.g., Firefox🐧, Chrome, Safari, Brave🐧, Opera, ...)
     * A matrix client to connect to the chat room (element🐧, fluffychat🐧, etc.)
